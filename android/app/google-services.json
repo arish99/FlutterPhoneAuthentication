@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "612210683685",
+    "project_id": "flutterphone-38eca",
+    "storage_bucket": "flutterphone-38eca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612210683685:android:05fb287d13d6e16ae5f4cc",
+        "android_client_info": {
+          "package_name": "com.example.authentication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612210683685-2u6q5macn4jh3n41iov4iovq76ld54aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authentication_app",
+            "certificate_hash": "af11917a60bac291e37692f831622959b0463cb6"
+          }
+        },
+        {
+          "client_id": "612210683685-l8hsfh21rml3uj1vgr7nq1jdr51cs0es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6CjrHvlzCP6owJKtkmro6uiLkIohpvYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612210683685-l8hsfh21rml3uj1vgr7nq1jdr51cs0es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
