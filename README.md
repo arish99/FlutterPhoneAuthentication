@@ -1,6 +1,6 @@
 # authentication_app
 
-A new Flutter project.
+Flutter Phone Authentication App using Firebase
 
 ## Getting Started
 
